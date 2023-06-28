@@ -1,2 +1,3 @@
 # yashprasad234.github.io
-Github Pages
+## This is the landing page of the projects by Yash Prasad
+### Contact me at - yashprasad272@gmail.com
